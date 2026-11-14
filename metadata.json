@@ -1,0 +1,8 @@
+{
+  "name": "Sarf (صرف)",
+  "description": "A high-performance personal expense tracking application with category management, PDF reporting, and secure data handling, designed with a sleek Arabic-first dark interface.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
